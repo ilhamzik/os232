@@ -10,3 +10,5 @@ permalink: LINKS/
 [Compile C program with gcc compiler on Bash on Ubuntu on Windows 10 & 11](https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/) --- This link helps me learn how to compile a C program and run it in Bash.
 
 [Adding and removing disk drive in VirtualBox](https://progmar.net.pl/en/knowledge-base/virtualbox-adding-removing-disk-drive) --- This link helps me learn how modify disk drive in VirtualBox
+
+[Compile C program with gcc compiler on Bash on Ubuntu on Windows 10 & 11] (https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/) --- I learned many things about compiler with this

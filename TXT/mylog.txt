@@ -32,3 +32,9 @@ ZCZC W03 20   L03 GitHub related
 ZCZC W03 120  L05 Quiz related including studying
 ZCZC W03 360  L13 Assignment #03
 ZCZC W03 20   L21 Trying something
+
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 20 L14 Assignment #04
+ZCZC W04 100 L21 Trying something
+ZCZC W04 20 L24 Scripting in general
