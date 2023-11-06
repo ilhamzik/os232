@@ -44,3 +44,9 @@ ZCZC W05 10 L05 QUIZ
 ZCZC W05 30 L09 Weekly Assignments
 ZCZC W05 100 L73 Gaming including Board Games.
 ZCZC W05 100 L33 Podcast incl. Spotify: listening OS related topics, etc.
+
+ZCZC W06 20 L00 General, etc.
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 100 L02 Study in class related
+ZCZC W06 60 L09 Weekly Assignments
+ZCZC W06 15 L10 Quiz related
