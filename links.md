@@ -12,3 +12,5 @@ permalink: LINKS/
 [Adding and removing disk drive in VirtualBox](https://progmar.net.pl/en/knowledge-base/virtualbox-adding-removing-disk-drive) --- This link helps me learn how modify disk drive in VirtualBox
 
 [What Is Virtual Memory and How Does It Work?](https://www.indeed.com/career-advice/career-development/virtual-memory) --- Article that contains basic concept of virtual memory. very understandable even for beginner.
+
+[Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) --- An article that explain Semaphores in process synchronization
