@@ -16,3 +16,5 @@ permalink: LINKS/
 [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) --- An article that explain Semaphores in process synchronization
 
 [How to build Linux From Scratch 12.0](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8&ab_channel=Kernotex) --- really helpful to guide me finished week08 assignment
+
+[Mass-Storage Structure in Operating System](https://www.javatpoint.com/mass-storage-structure-in-operating-systems) - A very good article that explain about this week topic as mass storage in OS.
