@@ -14,3 +14,5 @@ permalink: LINKS/
 [What Is Virtual Memory and How Does It Work?](https://www.indeed.com/career-advice/career-development/virtual-memory) --- Article that contains basic concept of virtual memory. very understandable even for beginner.
 
 [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) --- An article that explain Semaphores in process synchronization
+
+[How to build Linux From Scratch 12.0](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8&ab_channel=Kernotex) --- really helpful to guide me finished week08 assignment
